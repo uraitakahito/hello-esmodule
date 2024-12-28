@@ -1,0 +1,22 @@
+{
+  "name": "hello-esmodule",
+  "version": "1.0.0",
+  "main": "./lib/hello-esmodule.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uraitakahito/hello-esmodule.git"
+  },
+  "license": "Apache-2.0",
+  "description": "",
+  "publishConfig": {
+    "access": "public"
+  },
+  "files": [
+    "lib"
+  ]
+}
