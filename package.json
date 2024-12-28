@@ -1,6 +1,6 @@
 {
-  "name": "hello-esmodule",
-  "version": "1.0.0",
+  "name": "@uraitakahito/hello-esmodule",
+  "version": "1.0.1",
   "main": "./lib/hello-esmodule.js",
   "type": "module",
   "scripts": {
