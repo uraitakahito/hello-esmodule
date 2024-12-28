@@ -1,8 +1,9 @@
 {
   "name": "@uraitakahito/hello-esmodule",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "./lib/hello-esmodule.js",
   "type": "module",
+  "types": "./lib/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
